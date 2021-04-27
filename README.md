@@ -1,6 +1,6 @@
 # Proyecto-Final---Analisis-de-Datos-con-Python
 
-# Equipo 24 proyecto final
+# Equipo 11 - proyecto final
 
 # Análisis del consumo de agua en México ⚙️
 
